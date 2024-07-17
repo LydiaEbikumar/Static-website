@@ -1,0 +1,107 @@
+.pic1{
+    padding-left: 40%;
+}
+.nav-item{
+  margin:10px 80px;
+  font-weight: bolder;
+}
+.para{
+  float: right;
+  text-align: justify;
+  margin-top: 50px;
+  font-size:medium;
+  padding-top: 40px;
+}
+.pic11{
+  margin: 50px;
+  
+}
+footer{
+  background-color: rgb(108, 107, 104);
+  font-weight: bold;
+  padding: 20px 10px 20px 100px;
+  margin-top: 30px;
+}
+.foot{
+  
+  padding-top: 50px;
+  padding-left: 30px;
+}
+.icon{
+  padding-top: 50px;
+  padding-right: 10px;
+}
+.card{
+  margin: 30px;
+  margin-left: 30px;
+  padding: 10px;
+}
+#carouselExample{
+  padding-bottom: 40px;
+}
+.card-title{
+  text-align: center;
+}
+.card-text{
+  text-align: justify;
+}
+.about{
+  text-align: center;
+}
+.safe{
+  margin-top: 20px;
+  padding-left: 90px;
+  background-color: blanchedalmond;
+}
+.use{
+  text-align: center;
+  margin-top: 20px;
+}
+#line{
+  text-decoration: underline;
+}
+.page{
+  padding-left: 47%;
+  color:blue;
+}
+.page:hover{
+  color: green;
+}
+#small{
+  padding-left:30%;
+}
+#small1{
+  padding-left:25%;
+}
+#small2{
+  padding-left:25%;
+}
+.page1{
+  padding-left:10%;
+  color:blue;
+}
+.page1:hover{
+  color:green;
+}
+#pro{
+  text-align: center;
+}
+.page2{
+  padding-left: 70%;
+}
+.page2:hover{
+  color:green;
+}
+label{
+  font-weight: bold;
+  padding-left: 70px;
+  margin: 15px;
+}
+.input{
+  margin: 12px;
+}
+#sub{
+ margin: 10px;
+ margin-left: 60px;
+}
+
